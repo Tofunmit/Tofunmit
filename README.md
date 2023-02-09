@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tofunmi
-- 👀 I’m highly interested in Software Engineering
+- 👀 I’m interested in Cybersecurity/Software engineering
 - 🌱 I’m currently pursuing my Master's degree in Computer Science
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: ilesanmi.tofunmi@gmail.com
