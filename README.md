@@ -1,4 +1,7 @@
-- Hi, I’m Tofunmi. I recently obtained my Master's degree in Computer Science with a focus in Software Engineering at Towson University. I am a results-driven computer science graduate with expertise in full-stack development, data analysis, and database management. Passionate about developing innovative software solutions that improve user experiences and drive business results. Recognized for the ability to learn quickly, collaborate effectively, and deliver high-quality work in fast-paced environments
+- Master of Science in Computer Science. AWS Certified Developer – Associate. Proficient in Python, Java, C, C++, and front-end technologies like Angular. Skilled in web development, databases, and cloud technologies. Developed an Online Learning system using Angular, TypeScript, Node.js, and PostgreSQL. Completed a WPF application for spray painting images using C# and .NET
+  
+- Passionate about developing innovative software solutions that improve user experiences and drive business results. Recognized for the ability to learn quickly, collaborate effectively, and deliver high-quality work in fast-paced environments.
+  
 - I’m open to work and looking to collaborate on projects
 - How to reach me: ilesanmi.tofunmi@gmail.com
 
