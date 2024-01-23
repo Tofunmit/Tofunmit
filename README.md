@@ -8,6 +8,7 @@
 Projects I have developed so far: These projects are in private repositories due to some sensitive information used in the creation, development and deployment of the application(s).
 
 - E-Learnize
+  
 E-Learnize is an online learning platform built using Angular, TypeScript, Node.js, and PostgreSQL. Users can register as a learner or instructor to take or teach courses across various subjects.
 This project is in a private repository due to some sensitive information used in the creation, development and deployment of the application.
 
@@ -20,6 +21,7 @@ Secure user authentication and authorization
 This project was built as part of my master's program to demonstrate full-stack web development skills. Implementing video conferencing using the Zoom API was a particular highlight.
 
 - Image Spray Paint Application
+  
 This Windows desktop application allows users to load an image and spray paint over it using their mouse. Built with C# and .NET Framework.
 
 Key features of Spray Paint Application:
