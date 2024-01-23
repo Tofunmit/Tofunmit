@@ -14,10 +14,10 @@ This project is in a private repository due to some sensitive information used i
 
 Key features of E-Learnize:
 
-Learners can search and enroll in courses, view course materials, and communicate with instructors via integrated Zoom video chat
-Instructors can create and manage courses, upload lessons, and track student progress
-Admin dashboard to oversee users, courses, and enrollments
-Secure user authentication and authorization
+Learners can search and enroll in courses, view course materials, and communicate with instructors via integrated Zoom video chat.
+Instructors can create and manage courses, upload lessons, and track student progress.
+Admin dashboard to oversee users, courses, and enrollments.
+Secure user authentication and authorization.
 This project was built as part of my master's program to demonstrate full-stack web development skills. Implementing video conferencing using the Zoom API was a particular highlight.
 
 - Image Spray Paint Application
@@ -26,11 +26,11 @@ This Windows desktop application allows users to load an image and spray paint o
 
 Key features of Spray Paint Application:
 
-Load a custom image to paint on in PNG, JPG, or BMP format
-Left click mouse to spray paint with color and density of choice
-Right click mouse to erase paint
-Adjust brush size, color opacity, and spray width
-Save painted image to file
+Load a custom image to paint on in PNG, JPG, or BMP format.
+To spray paint: Tap and hold the mouse button and hover around the image.
+Adjust color, density, Spray size and Opacity as required.
+To erase: click to check the eraser button and simply hover the mouse button around the spray painted portion.
+Save painted image to file.
 This project exemplified my skills in C# Windows Presentation Foundation development, mouse tracking, and creating polished installable applications.
 
 <!---
