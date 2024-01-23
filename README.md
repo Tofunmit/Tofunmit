@@ -9,6 +9,7 @@ Projects I have developed so far: These projects are in private repositories due
 
 - E-Learnize
 E-Learnize is an online learning platform built using Angular, TypeScript, Node.js, and PostgreSQL. Users can register as a learner or instructor to take or teach courses across various subjects.
+This project is in a private repository due to some sensitive information used in the creation, development and deployment of the application.
 
 Key features of E-Learnize:
 
